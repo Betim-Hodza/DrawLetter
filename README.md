@@ -1,4 +1,4 @@
-DrawLetter
+# DrawLetter
 
 A program that takes input for the background array, and allows you to input 3 letter to draw to the terminal.
 
